@@ -1,8 +1,8 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) <!-- omit in toc -->
 
-# SEI Apollo Class Information
+# SEI Bees Class Information
 
-Welcome, SEI Apollo! This repository will be used for most of the information you will need as students. This includes important links, contact information, etc.
+Welcome, SEI Bees! This repository will be used for most of the information you will need as students. This includes important links, contact information, etc.
 
 # Table of Contents <!-- omit in toc -->
 
@@ -45,11 +45,13 @@ Welcome, SEI Apollo! This repository will be used for most of the information yo
 
 ## Important Dates
 
-|    Date    | Day of Week | Event               |
-| :--------: | :---------: | :------------------ |
-| **Mar 23** |   Monday    | First Day of Class! |
-| **May 25** |   Monday    | Memorial Day        |
-| **Jun 15** |   Monday    | Last Day of Class!  |
+|    Date    | Day of Week | Event                       |
+| :--------- | :---------- | :-------------------------- |
+| **Jun 29** |   Monday    | First Day of Class!         |
+| **Jul 3**  |   Friday    | Independence Day (Observed) |
+| **Jul 4**  |   Saturday  | Independence Day            |
+| **Aug 7**  |   Monday    | Labor Day                   |
+| **Sep 22** |   Tuesday   | Last Day of Class!          |
 
 <br>
 
@@ -61,35 +63,34 @@ Welcome, SEI Apollo! This repository will be used for most of the information yo
 
 Front-End Web Development Foundations - HTML, CSS, & JavaScript
 
-- **Week 1:** 03/23 to 03/27
-- **Week 2**: 03/30 to 04/03
-- **Week 3:** 04/06 to 04/10 - _Project 1_
+- **Week 1:** 06/29 to 07/02 - _Full Day Wednesday: 6/1 - Independence Day (Observed): Friday 6/3 - Independence Day: Saturday 6/4_
+- **Week 2**: 07/06 to 07/10
+- **Week 3:** 07/13 to 07/17 - _Project 1_
 
 ### Unit 2
 
 Front-End JavaScript Frameworks and Advanced JS - React
 
-- **Week 4:** 04/13 to 04/17
-- **Week 5:** 04/20 to 01/24
-- **Week 6:** 04/27 to 05/01 - _Project 2_
+- **Week 4:** 07/20 to 07/24
+- **Week 5:** 07/27 to 07/31
+- **Week 6:** 08/03 to 08/07 - _Project 2_
 
 ### Unit 3
 
 Back-End & Full Stack Web Development Foundations - MVC, Node.js, Express
 
-- **Week 7:** 05/04 to 05/08
-- **Week 8:** 05/11 to 05/15
-- **Week 9:** 05/18 to 02/22 - _Project 3_
+- **Week 7:** 08/10 to 08/14
+- **Week 8:** 08/17 to 08/21
+- **Week 9:** 08/24 to 08/28 - _Project 3_
 
 ### Unit 4
 
 Additional Technologies & Independent Work - Ruby on Rails, Final Project
 
-- **Week 10:** 05/26 to 02/29
-  _Memorial Day - Monday 5/25_
-- **Week 11:** 06/01 to 06/05
-- **Week 12:** 06/08 to 06/12 - _Project 4_
-- **Week 13:** 06/15
+- **Week 10:** 08/31 to 09/04
+- **Week 11:** 09/08 to 09/11 - _Labor Day: 9/7_
+- **Week 12:** 09/14 to 09/18 - _Project 4_
+- **Week 13:** 09/21 to 09/22
 
 ### Outcomes
 
@@ -99,7 +100,8 @@ Resumés, LinkedIn, Job Applications, oh my!
 
 ## Week Breakdown (By Day)
 
-> This schedule may vary and could change depending on class progress.
+> This schedule may vary and could change depending on class progress. 
+> _NOTE: Wednesday July 1st will be a FULL DAY_
 
 |              | Monday                 | Tuesday                | Wednesday              | Thursday               | Friday                 |
 | ------------ | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
@@ -137,7 +139,7 @@ Resumés, LinkedIn, Job Applications, oh my!
 
 # Slack Channels
 
-See [Slack Channels](https://git.generalassemb.ly/sei-nyc-apollo/class-info/wiki/Slack-Channels) in the Apollo Wiki.
+See [Slack Channels](https://git.generalassemb.ly/sei-nyc-bees/class-info/wiki/Slack-Channels) in the Bees Wiki.
 
 <br>
 
