@@ -5,7 +5,7 @@
 Welcome, SEI Bees! This repository will be used for most of the information you will need as students. This includes important links, contact information, etc.
 
 # Table of Contents <!-- omit in toc -->
-
+- [Helpful Links](#Helpful-Links)
 - [Course Leadership](#Course-Leadership)
 - [Course Calendar & Schedule](#Course-Calendar--Schedule)
   - [Important Dates](#Important-Dates)
@@ -22,6 +22,13 @@ Welcome, SEI Bees! This repository will be used for most of the information you 
 - [Course Policies](#Course-Policies)
   - [Attendance & Tardiness](#Attendance--Tardiness)
 - [General Assembly Licensing](#General-Assembly-Licensing)
+
+<br>
+
+# Helpful Links
+  - [Class Wiki](https://git.generalassemb.ly/sei-nyc-bees/class-info/wiki)
+  - [Unit 1 schedule](https://git.generalassemb.ly/sei-nyc-bees/class-info/wiki/Unit-1-schedule)
+
 
 <br>
 
